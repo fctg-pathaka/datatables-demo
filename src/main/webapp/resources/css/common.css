@@ -1,0 +1,17 @@
+* {
+    background-color: 011685 !important;
+    font-family: 'Nunito', sans-serif;
+    primary-color: #011685;
+    secondary-color: #223341;
+    text-color: 000000;
+    font-size: 0.9em;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+
