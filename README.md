@@ -2,7 +2,7 @@
 
 # Set up database
 
-1. Setup postgres databse as per sdv postgres main database
+1. Create postgres database and configure the database details into application-dev.properties.
 
 # How to setup the project:
 
